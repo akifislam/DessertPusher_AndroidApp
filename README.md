@@ -3,7 +3,7 @@
   <a href="https://learn.udacity.com/courses/ud9012/lessons/a0771b3c-3d56-47ae-afc4-198bc0b74b56/concepts/a4315c5b-ef29-4a83-b732-3ffc34269dd8" target="_blank">Activity & Fragment Lifecycle | Udacity </a>
 </h2>
 <div align="center">
-  <img alt="DessertPusherGIF" src="DessertPusher.gif" />
+  <img alt="DessertPusherGIF" src="DessertPusher.gif" height="468" width="218"/>
 </div>
 
 <br/>
