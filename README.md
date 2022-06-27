@@ -22,7 +22,11 @@ This project was built using these technologies.
 ## Goal of this Project
 
 - Learn How to Log on Android Studio using Timber
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<h2 align="center">
 Thanks
+</h2>
 
